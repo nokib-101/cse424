@@ -1,1 +1,1 @@
-# cse424
+Stock market price prediction with random forest and LSTM models
